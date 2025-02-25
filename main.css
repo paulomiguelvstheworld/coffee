@@ -1,0 +1,11 @@
+h1{
+ color: rgba(238, 48, 15, 0.863);
+}
+
+body{
+    background-image: url("kape.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    color: azure;
+
+}
